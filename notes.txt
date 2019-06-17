@@ -1,0 +1,8 @@
+Use cases:
+
+-	I've just created a lot of files in class on my laptop and don't want to manually upload all of
+	them to Google Drive
+
+-	I'm trying to download a lot of files from Google Drive that I don't have on my computer
+
+- 	Version control? Maybe
